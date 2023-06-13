@@ -1,0 +1,70 @@
+Section Name: 
+Section Address: 0x0000000000000000
+Section Offset: 0x0000000000000000
+Section Size: 0x0000000000000000
+
+Section Name: .text
+Section Address: 0x0000000000000000
+Section Offset: 0x0000000000000040
+Section Size: 0x0000000000000016
+
+Section Name: .rela.text
+Section Address: 0x0000000000000000
+Section Offset: 0x0000000000000198
+Section Size: 0x0000000000000030
+
+Section Name: .data
+Section Address: 0x0000000000000000
+Section Offset: 0x0000000000000056
+Section Size: 0x0000000000000000
+
+Section Name: .bss
+Section Address: 0x0000000000000000
+Section Offset: 0x0000000000000056
+Section Size: 0x0000000000000000
+
+Section Name: .rodata
+Section Address: 0x0000000000000000
+Section Offset: 0x0000000000000056
+Section Size: 0x0000000000000012
+
+Section Name: .comment
+Section Address: 0x0000000000000000
+Section Offset: 0x0000000000000068
+Section Size: 0x0000000000000013
+
+Section Name: .note.GNU-stack
+Section Address: 0x0000000000000000
+Section Offset: 0x000000000000007b
+Section Size: 0x0000000000000000
+
+Section Name: .note.gnu.property
+Section Address: 0x0000000000000000
+Section Offset: 0x0000000000000080
+Section Size: 0x0000000000000030
+
+Section Name: .eh_frame
+Section Address: 0x0000000000000000
+Section Offset: 0x00000000000000b0
+Section Size: 0x0000000000000038
+
+Section Name: .rela.eh_frame
+Section Address: 0x0000000000000000
+Section Offset: 0x00000000000001c8
+Section Size: 0x0000000000000018
+
+Section Name: .symtab
+Section Address: 0x0000000000000000
+Section Offset: 0x00000000000000e8
+Section Size: 0x0000000000000090
+
+Section Name: .strtab
+Section Address: 0x0000000000000000
+Section Offset: 0x0000000000000178
+Section Size: 0x000000000000001b
+
+Section Name: .shstrtab
+Section Address: 0x0000000000000000
+Section Offset: 0x00000000000001e0
+Section Size: 0x0000000000000074
+
